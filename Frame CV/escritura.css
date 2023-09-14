@@ -1,0 +1,66 @@
+#tituloCV {
+    color: #F5F5F5;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+} 
+
+#subtituloCV {
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+} 
+
+#MarcoHorizontalCabecera {
+    width: 1170px;
+    height: 333px;
+    background: #19728E;
+    position: relative;
+    left: 270px;
+    display: flex;
+    align-items: center; 
+}
+
+#tituloSubtitulo {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    position: absolute;
+    top: 50%; 
+    transform: translateY(-50%); 
+    left: 270px; 
+}
+
+
+
+#subtituloTecnicatura {
+    position: relative;
+    left: 670px;
+    display: inline-block;
+    color: #131313;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+#descripcionTecnicatura {
+position: relative;
+left: 670px;
+display: inline;
+color: #000;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+

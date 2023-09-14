@@ -1,0 +1,240 @@
+.propiedades-del-cv-utilizadas,
+.propiedades-del-cv-utilizadas * {
+  box-sizing: border-box;
+}
+.propiedades-del-cv-utilizadas {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.image-10 {
+  background: linear-gradient(
+    180deg,
+    rgba(165, 191, 210, 1) 99.97999668121338%,
+    rgba(160, 8, 253, 0.46) 99.98999834060669%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  width: 324px;
+  height: 1023px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.propiedades-del-cv-utilizadas-figma {
+  color: rgba(99, 20, 29, 0.78);
+  text-align: center;
+  font: 500 48px "Inter", sans-serif;
+  position: absolute;
+  left: 272px;
+  top: 29px;
+  width: 1116px;
+  height: 188px;
+}
+.paletas-de-colores-utilizadas-titulos-f-5-f-5-f-5-63141-d-layout-grids-df-7373-estudios-tecn-131313-fuente-general-000000-marcos-19728-e-a-5-bfd-2-botones-fad-793 {
+  color: #1b0205;
+  text-align: left;
+  font: 500 30px "Inter", sans-serif;
+  position: absolute;
+  left: 361px;
+  top: 186px;
+  width: 478px;
+  height: 337px;
+}
+.paletas-de-colores-utilizadas-titulos-f-5-f-5-f-5-63141-d-layout-grids-df-7373-estudios-tecn-131313-fuente-general-000000-marcos-19728-e-a-5-bfd-2-botones-fad-793-span {
+  color: #1b0205;
+  font: 500 30px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.paletas-de-colores-utilizadas-titulos-f-5-f-5-f-5-63141-d-layout-grids-df-7373-estudios-tecn-131313-fuente-general-000000-marcos-19728-e-a-5-bfd-2-botones-fad-793-span2 {
+  color: #1b0205;
+  font: 500 30px "Inter", sans-serif;
+}
+.paletas-de-colores-utilizadas-titulos-f-5-f-5-f-5-63141-d-layout-grids-df-7373-estudios-tecn-131313-fuente-general-000000-marcos-19728-e-a-5-bfd-2-botones-fad-793-span3 {
+  color: #1b0205;
+  font: 500 30px "Inter", sans-serif;
+}
+.paletas-de-colores-utilizadas-titulos-f-5-f-5-f-5-63141-d-layout-grids-df-7373-estudios-tecn-131313-fuente-general-000000-marcos-19728-e-a-5-bfd-2-botones-fad-793-span4 {
+  color: #1b0205;
+  font: 500 30px "Inter", sans-serif;
+}
+.wireframe-utilizado-cv-principal-layout-grids-columns-3-columnas-gutter-40 {
+  color: #1b0205;
+  text-align: left;
+  font: 500 30px "Inter", sans-serif;
+  position: absolute;
+  left: 896px;
+  top: 186px;
+  width: 419px;
+  height: 340px;
+}
+.wireframe-utilizado-cv-principal-layout-grids-columns-3-columnas-gutter-40-span {
+  color: #1b0205;
+  font: 500 30px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.wireframe-utilizado-cv-principal-layout-grids-columns-3-columnas-gutter-40-span2 {
+  color: #1b0205;
+  font: 500 30px "Inter", sans-serif;
+}
+.wireframe-utilizado-cv-principal-layout-grids-columns-3-columnas-gutter-40-span3 {
+  color: #1b0205;
+  font: 500 30px "Inter", sans-serif;
+}
+.tipograf-a-utilizada-t-tulos-inter-medium-48-general-inter-medium-36-en-sta-p-gina-inter-medium-30 {
+  color: #1b0205;
+  text-align: left;
+  font: 500 30px "Inter", sans-serif;
+  position: absolute;
+  left: 361px;
+  top: 776px;
+  width: 439px;
+  height: 217px;
+}
+.tipograf-a-utilizada-t-tulos-inter-medium-48-general-inter-medium-36-en-sta-p-gina-inter-medium-30-span {
+  color: #1b0205;
+  font: 500 30px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.tipograf-a-utilizada-t-tulos-inter-medium-48-general-inter-medium-36-en-sta-p-gina-inter-medium-30-span2 {
+  color: #1b0205;
+  font: 500 30px "Inter", sans-serif;
+}
+.tipograf-a-utilizada-t-tulos-inter-medium-48-general-inter-medium-36-en-sta-p-gina-inter-medium-30-span3 {
+  color: #1b0205;
+  font: 500 30px "Inter", sans-serif;
+}
+.frames-w-1440-h-1024 {
+  color: #000000;
+  text-align: left;
+  font: 500 30px "Inter", sans-serif;
+  position: absolute;
+  left: 361px;
+  top: 508px;
+  width: 286px;
+  height: 245px;
+}
+.frames-w-1440-h-1024-span {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.frames-w-1440-h-1024-span2 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.frames-w-1440-h-1024-span3 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.frames-w-1440-h-1024-span4 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.frames-w-1440-h-1024-span5 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.rectangle-2 {
+  border-radius: 71.5px;
+  width: 181px;
+  height: 171px;
+  position: absolute;
+  left: 876px;
+  top: 451px;
+}
+.foto-272-x-333-propiedades-default {
+  color: #000000;
+  text-align: left;
+  font: 500 30px "Inter", sans-serif;
+  position: absolute;
+  left: 1074px;
+  top: 456px;
+  width: 234px;
+  height: 184px;
+}
+.foto-272-x-333-propiedades-default-span {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.foto-272-x-333-propiedades-default-span2 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.foto-272-x-333-propiedades-default-span3 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.conos-utilizados {
+  color: #000000;
+  text-align: left;
+  font: 500 30px "Inter", sans-serif;
+  position: absolute;
+  left: 909px;
+  top: 656px;
+  width: 357px;
+  height: 361px;
+}
+.conos-utilizados-span {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.conos-utilizados-span2 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.conos-utilizados-span3 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.conos-utilizados-span4 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.conos-utilizados-span5 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.conos-utilizados-span6 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.conos-utilizados-span7 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.conos-utilizados-span8 {
+  color: #000000;
+  font: 500 30px "Inter", sans-serif;
+}
+.image-8 {
+  width: 64px;
+  height: 54px;
+  position: absolute;
+  left: 967px;
+  top: 722px;
+}
+.image-9 {
+  width: 64px;
+  height: 67px;
+  position: absolute;
+  left: 967px;
+  top: 792px;
+}
+.image-92 {
+  width: 68px;
+  height: 68px;
+  position: absolute;
+  left: 967px;
+  top: 866px;
+}
+.image-93 {
+  width: 64px;
+  height: 66px;
+  position: absolute;
+  left: 967px;
+  top: 945px;
+}

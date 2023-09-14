@@ -1,0 +1,29 @@
+#botonPropiedades {
+    margin-bottom: -100px;
+ display: inline-block;
+ margin-left: 400px; 
+ width: 170px;
+ height: 70px;
+ border-radius: 70px;
+ background: #FAD793;
+}
+
+#botonDatos {
+ margin-top: -100px;
+ display: inline-block;
+ margin-left: 1000px; 
+ width: 170px;
+ height: 70px;
+ border-radius: 70px;
+ background: #FAD793;
+
+}
+
+#botonEstudios {
+ display: inline-block;
+ margin-left: 700px; 
+ width: 170px;
+ height: 70px;
+ border-radius: 70px;
+ background: #FAD793;
+}

@@ -1,0 +1,100 @@
+.datos-personales,
+.datos-personales * {
+  box-sizing: border-box;
+}
+.datos-personales {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+.datos-personales2 {
+  color: #63141d;
+  text-align: center;
+  font: 500 48px "Inter", sans-serif;
+  position: absolute;
+  left: 19px;
+  top: 28px;
+  width: 1391px;
+  height: 125px;
+}
+.martin-guimpel-gmail-com {
+  color: #000000;
+  text-align: left;
+  font: 500 36px "Inter", sans-serif;
+  position: absolute;
+  left: 501px;
+  top: 200px;
+  width: 477px;
+  height: 81px;
+}
+.image-2 {
+  width: 95px;
+  height: 109px;
+  position: absolute;
+  left: 382px;
+  top: 334px;
+}
+.mguimpel-uade-edu-ar {
+  color: #000000;
+  text-align: left;
+  font: 500 36px "Inter", sans-serif;
+  position: absolute;
+  left: 501px;
+  top: 363px;
+  width: 477px;
+  height: 80px;
+}
+.image-3 {
+  width: 103px;
+  height: 102px;
+  position: absolute;
+  left: 380px;
+  top: 500px;
+}
+._9-de-agosto-del-2000 {
+  color: #000000;
+  text-align: left;
+  font: 500 36px "Inter", sans-serif;
+  position: absolute;
+  left: 501px;
+  top: 533px;
+  width: 548px;
+  height: 100px;
+}
+.nacionalidad-argentina {
+  color: #000000;
+  text-align: left;
+  font: 500 36px "Inter", sans-serif;
+  position: absolute;
+  left: 501px;
+  top: 720px;
+  width: 427px;
+  height: 59px;
+}
+.image-6 {
+  width: 101px;
+  height: 94px;
+  position: absolute;
+  left: 382px;
+  top: 685px;
+}
+.image-8 {
+  width: 95px;
+  height: 80px;
+  position: absolute;
+  left: 382px;
+  top: 186px;
+}
+.image-7 {
+  background: linear-gradient(
+    180deg,
+    rgba(25, 114, 142, 1) 99.98999834060669%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  width: 292px;
+  height: 1023px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+}

@@ -1,0 +1,120 @@
+.estudios-y-experiencias-obtenidas,
+.estudios-y-experiencias-obtenidas * {
+  box-sizing: border-box;
+}
+.estudios-y-experiencias-obtenidas {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+.image-8 {
+  background: linear-gradient(
+    180deg,
+    rgba(165, 191, 210, 1) 99.98999834060669%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  width: 289px;
+  height: 1024px;
+  position: absolute;
+  left: 3px;
+  top: 0px;
+}
+.image-11 {
+  background: #19728e;
+  width: 289px;
+  height: 252px;
+  position: absolute;
+  left: 3px;
+  top: 466px;
+}
+.estudios-y-experiencias-obtenidas2 {
+  color: #63141d;
+  text-align: center;
+  font: 500 48px "Inter", sans-serif;
+  position: absolute;
+  left: 292px;
+  top: 56px;
+  width: 1148px;
+  height: 148px;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 396px;
+  top: 268px;
+  width: 1002px;
+  height: 675px;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span2 {
+  color: #000000;
+  font: 500 16px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span3 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span4 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span5 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span6 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span7 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span8 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span9 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span10 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span11 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span12 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span13 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.titulos-acad-micos-experiencias-laborales-y-deportivas-t-tulo-primario-en-francesco-faa-di-bruno-2013-t-tulo-secundario-en-colegio-coraz-n-de-jes-s-2018-t-tulo-cintur-n-negro-1-er-dan-de-taekwondo-2018-vs-developer-del-data-center-del-ej-rcito-argentino-certificado-first-ingl-s-en-proceso-t-tulo-t-cnico-universitario-en-desarrollo-de-software-en-proceso-span14 {
+  color: #000000;
+  font: 500 36px "Inter", sans-serif;
+}
+.idiomas-espa-ol-ingl-s-portugu-s {
+  color: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 99.98999834060669%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  text-align: center;
+  font: 500 36px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 492px;
+  width: 286px;
+  height: 187px;
+}

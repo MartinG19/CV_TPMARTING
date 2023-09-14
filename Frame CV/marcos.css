@@ -1,0 +1,16 @@
+nav#marcoIzquierdoMain {
+    width: 272px;
+    height: 1024px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, #19728E 78.6%, rgba(255, 255, 255, 0.00) 100%);
+   }
+
+
+header#MarcoHorizontalCabecera {
+    width: 1170px;
+    height: 333px;
+    flex-shrink: 0;
+    background: #19728E;
+    position: relative;
+    left: 270px;
+}
