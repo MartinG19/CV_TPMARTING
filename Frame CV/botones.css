@@ -1,7 +1,7 @@
 #botonPropiedades {
-    margin-bottom: -100px;
+    
  display: inline-block;
- margin-left: 400px; 
+
  width: 170px;
  height: 70px;
  border-radius: 70px;
@@ -9,9 +9,9 @@
 }
 
 #botonDatos {
- margin-top: -100px;
+ 
  display: inline-block;
- margin-left: 1000px; 
+ 
  width: 170px;
  height: 70px;
  border-radius: 70px;
@@ -21,9 +21,21 @@
 
 #botonEstudios {
  display: inline-block;
- margin-left: 700px; 
+ 
  width: 170px;
  height: 70px;
  border-radius: 70px;
  background: #FAD793;
+}
+
+div.botonesContainer{
+    margin: auto;
+    width: 700px;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    justify-content: space-evenly;
 }
