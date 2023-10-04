@@ -98,3 +98,41 @@
   left: 0px;
   top: 1px;
 }
+
+
+/*Botones*/
+#botonCV {
+  display: inline-block;
+  width: 170px;
+  height: 70px;
+  border-radius: 70px;
+  background: #FAD793;
+ }
+ 
+ #botonPropiedades {
+  display: inline-block;
+  width: 170px;
+  height: 70px;
+  border-radius: 70px;
+  background: #FAD793;
+ }
+ 
+ #botonEstudios {
+  display: inline-block;
+  width: 170px;
+  height: 70px;
+  border-radius: 70px;
+  background: #FAD793;
+ }
+ 
+ div.botonesContainer{
+  margin: auto;
+  width: 700px;
+  height: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex;
+  justify-content: flex-end;
+  justify-content: center;
+  justify-content: space-between;
+ }
