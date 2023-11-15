@@ -50,7 +50,11 @@
 </body>
 </html>
 
- <!--Estilos para el JS (título desplazado hacia arriba)-->
+
+
+
+
+ <!--Estilos para el JS (subtítulo desplazado hacia arriba)-->
  <style>
     @keyframes moveUp {
   from {
@@ -64,26 +68,27 @@
 }
 
 .animate-up {
-  animation: moveUp 1s ease-out; /* Puedes ajustar la duración y la función de temporización según tus preferencias */
+  animation: moveUp 2s ease-out; 
 }
   </style>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    // Obtén la sección que deseas animar
-    var sectionToAnimate = document.querySelector("#marcoIzquierdoMain div");
+  document.addEventListener("DOMContentLoaded", function() {
+    // Sección que  se desea animar
+    var sectionToAnimate = document.querySelector("#subtituloTecnicatura");
 
-    // Agrega la clase de animación después de un pequeño retraso
+    // Clase de la animación con poco delay
     setTimeout(function () {
       sectionToAnimate.classList.add("animate-up");
-    }, 500); // El valor en milisegundos puede ajustarse según tus necesidades
+    }, 500); // El valor en milisegundos
   });
 </script>
 
 
 
 
-<!--Ahora el desplazamiento de el subtítulo-->
+
+<!--Desplazamiento del título hacia la derecha-->
 <style>
 @keyframes moveRight {
   from {
@@ -97,24 +102,20 @@
 }
 
 .animate-right {
-  animation: moveRight 1s ease-out; /* Puedes ajustar la duración y la función de temporización según tus preferencias */
+  animation: moveRight 2s ease-out; 
 }
 </style>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    // Obtén la sección que deseas animar hacia la derecha
+  document.addEventListener("DOMContentLoaded", function() {
+    // Sección para animar hacia la derecha
     var sectionToAnimateRight = document.querySelector("#marcoIzquierdoMain div");
 
-    // Agrega la clase de animación después de un pequeño retraso
+    // Clase de la animación con poco delay
     setTimeout(function () {
       sectionToAnimateRight.classList.add("animate-up", "animate-right");
-    }, 500); // El valor en milisegundos puede ajustarse según tus necesidades
+    }, 500); // El valor en milisegundos
   });
 </script>
-
-
-
-
 
 
