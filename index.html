@@ -49,3 +49,72 @@
     </div>
 </body>
 </html>
+
+ <!--Estilos para el JS (título desplazado hacia arriba)-->
+ <style>
+    @keyframes moveUp {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-up {
+  animation: moveUp 1s ease-out; /* Puedes ajustar la duración y la función de temporización según tus preferencias */
+}
+  </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Obtén la sección que deseas animar
+    var sectionToAnimate = document.querySelector("#marcoIzquierdoMain div");
+
+    // Agrega la clase de animación después de un pequeño retraso
+    setTimeout(function () {
+      sectionToAnimate.classList.add("animate-up");
+    }, 500); // El valor en milisegundos puede ajustarse según tus necesidades
+  });
+</script>
+
+
+
+
+<!--Ahora el desplazamiento de el subtítulo-->
+<style>
+@keyframes moveRight {
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-right {
+  animation: moveRight 1s ease-out; /* Puedes ajustar la duración y la función de temporización según tus preferencias */
+}
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Obtén la sección que deseas animar hacia la derecha
+    var sectionToAnimateRight = document.querySelector("#marcoIzquierdoMain div");
+
+    // Agrega la clase de animación después de un pequeño retraso
+    setTimeout(function () {
+      sectionToAnimateRight.classList.add("animate-up", "animate-right");
+    }, 500); // El valor en milisegundos puede ajustarse según tus necesidades
+  });
+</script>
+
+
+
+
+
+
